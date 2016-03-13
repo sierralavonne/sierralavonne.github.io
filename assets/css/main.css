@@ -2827,7 +2827,10 @@
 	body {
 		padding-top: 3em;
 	}
-
+    .resume{
+        text-align: center;
+        margin-top: :-15px;
+    }
 	#logo {
 		position: absolute;
 		left: 1em;
@@ -3453,7 +3456,3 @@
 			}
 
 	}
-.resume{
-    text-align: center;
-    margin-top: :-15px;
-}
